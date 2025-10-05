@@ -17,11 +17,19 @@
     - And the markdown format of the brochure in your project's root folder 
     - multiple runs of the program will over-write the same file named 'brochure.md'
 
+## Tech:
+- Python: Web Scraping, interacting with LLMs
+- Generative AI: Prompt Engineering, LLM 
+- Vibe coding: for UI creation using Gradio
+
 ## LLM Models used
 - Open AI
 
 ## UI
 - gradio 
+
+## Architecture
+
 
 ## TODO: Optimization
 - Don't summarize each page separately. 
