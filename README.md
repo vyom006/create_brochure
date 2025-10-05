@@ -23,7 +23,7 @@
 - Vibe coding: for UI creation using Gradio
 
 ## LLM Models used
-- Open AI
+- OpenAI: gpt-4o-mini
 
 ## UI
 - gradio 
