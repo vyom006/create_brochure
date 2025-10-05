@@ -29,6 +29,7 @@
 - gradio 
 
 ## Architecture
+<img width="643" height="373" alt="Screenshot 2025-10-06 at 3 17 37 AM" src="https://github.com/user-attachments/assets/93fd3483-15a0-45b4-98c9-9918fc9720ae" />
 
 
 ## TODO: Optimization
