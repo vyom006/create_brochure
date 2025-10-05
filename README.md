@@ -20,5 +20,10 @@
 ## LLM Models used
 - Open AI
 
-## For quick UI
+## UI
 - gradio 
+
+## TODO: Optimization
+- Don't summarize each page separately. 
+- Rather, combine the contents of each page and send that to LLM to summarize
+- Improvement by this: N number of LLM calls to be reduced, whereas N = number of relevant links.
